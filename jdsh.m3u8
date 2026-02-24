@@ -57,3 +57,5 @@ https://php.jdshipin.com:2096/smt.php?id=videolandmovie
 https://php.jdshipin.com:2096/smt.php?id=videolandsport
 #EXTINF:-1 ,浙江卫视4K
 http://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 ,catvod
+https://iptv.catvod.com/list.php?token=catvod.com
